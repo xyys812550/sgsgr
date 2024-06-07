@@ -1,0 +1,39 @@
+# https://github.com/xyys81255/Iceriver-OC
+
+91.132.48.156 lsd.s.eksy.org
+91.132.48.156 kas.ss.poolin.one
+
+91.132.48.156 kas-na.f2pool.com
+91.132.48.156 kas-asia.f2pool.com
+91.132.48.156 kas-euro.f2pool.com
+
+91.132.48.156 kas.eu1.humpool.com
+91.132.48.156 kas.us1.humpool.com
+91.132.48.156 kas.asia1.humpool.com
+91.132.48.156 kas.asai1.humpool.com
+
+91.132.48.156 sdr.us1.humpool.com
+91.132.48.156 sdr.asia1.humpool.com
+91.132.48.156 sdr.eu1.humpool.com
+
+91.132.48.156 cn.kaspa.k1pool.com
+91.132.48.156 eu.kaspa.k1pool.com
+91.132.48.156 us.kaspa.k1pool.com
+
+91.132.48.156 eu1.kaspa-pool.org
+91.132.48.156 us1.kaspa-pool.org
+91.132.48.156 asia1.kaspa-pool.org
+
+91.132.48.156 kas.antpool.com
+91.132.48.156 sdr.us1.humpool.com
+
+# 91.132.48.156 kheavyhash.auto.nicehash.com
+
+127.0.0.1	localhost.localdomain		localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
